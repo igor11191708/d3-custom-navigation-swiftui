@@ -16,6 +16,7 @@ Experimenting with navigation link. if you find this idea interesting you can ta
                 Button("go2") { route = .go2}
                 Button("go3") { route = .go3}
             }.navigation(route: $route)
+            
         }.navigationViewStyle(.stack)
     }
 ```
