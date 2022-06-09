@@ -43,9 +43,9 @@ enum Router {
     @ViewBuilder
     var builder: some View {
         switch(self) {
-        case .go1: SubView(text: "go1")
-        case .go2: SubView(text: "go2")
-        case .go3: SubView(text: "go3")
+            case .go1: SubView(text: "go1")
+            case .go2: SubView(text: "go2")
+            case .go3: SubView(text: "go3")
         default: EmptyView()
         }
     }
