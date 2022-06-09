@@ -13,6 +13,7 @@
 		B2C716922851E09F0020B958 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2C716802851E09E0020B958 /* ContentView.swift */; };
 		B2C716932851E09F0020B958 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2C716812851E09F0020B958 /* Assets.xcassets */; };
 		B2C716942851E09F0020B958 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2C716812851E09F0020B958 /* Assets.xcassets */; };
+		B2C7169E285200510020B958 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B2C7169D285200510020B958 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B2C716862851E09F0020B958 /* d3-custom-navigation-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "d3-custom-navigation-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2C7168C2851E09F0020B958 /* d3-custom-navigation-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "d3-custom-navigation-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2C7168E2851E09F0020B958 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		B2C7169D285200510020B958 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 		B2C716792851E09E0020B958 = {
 			isa = PBXGroup;
 			children = (
+				B2C7169D285200510020B958 /* README.md */,
 				B2C7167E2851E09E0020B958 /* Shared */,
 				B2C7168D2851E09F0020B958 /* macOS */,
 				B2C716872851E09F0020B958 /* Products */,
@@ -157,6 +160,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B2C7169E285200510020B958 /* README.md in Resources */,
 				B2C716932851E09F0020B958 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
