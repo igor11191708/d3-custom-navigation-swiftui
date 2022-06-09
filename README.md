@@ -2,7 +2,7 @@
 
 
 Experimenting with navigation link. Experimenting with navigation link. if you find this idea interesting you can expend it into a powerful solution.
-
+[Live coding](https://youtu.be/_wbJqWjqCO0)
 
 ## The result navigaion definition
 ```swift
