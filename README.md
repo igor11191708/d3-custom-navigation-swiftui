@@ -4,7 +4,7 @@
 Experimenting with navigation link. Experimenting with navigation link. if you find this idea interesting you can expend it into a powerful solution.
 [Live coding youtube](https://youtu.be/_wbJqWjqCO0)
 
-## The result navigaion definition
+## The result navigaion
 ```swift
 
     @State var route : Router = .empty
