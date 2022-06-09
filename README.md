@@ -6,6 +6,9 @@ Experimenting with navigation link. Experimenting with navigation link. if you f
 
 ## The result navigaion definition
 ```swift
+
+    @State var route : Router = .empty
+
     var body: some View {
         NavigationView{
             VStack{
