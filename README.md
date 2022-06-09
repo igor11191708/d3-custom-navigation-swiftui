@@ -4,7 +4,7 @@
 ### Experimenting with navigation link. if you find this idea interesting you can expend it into more powerful solution.
 
 
-- The result navigaion definition
+## The result navigaion definition
 ```swift
     var body: some View {
         NavigationView{
@@ -17,7 +17,7 @@
     }
 ```
 
-- Define sub view
+### 1. Define sub view
 ```swift
 struct SubView: View {
 
@@ -29,7 +29,7 @@ struct SubView: View {
 }
 ```
 
-- Define routes
+### 2. Define routes
 ```swift
 enum Router {
     case go1
@@ -48,7 +48,7 @@ enum Router {
     }
 }
 ```
-- Define view modifire
+### 3. Define view modifire
 ```swift
 struct NavigationModifire : ViewModifier{
     
