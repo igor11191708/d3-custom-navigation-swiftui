@@ -1,7 +1,7 @@
 # Custom navigation swiftui
 
 
-Experimenting with navigation link. Experimenting with navigation link. if you find this idea interesting you can expend it into a powerful solution.
+Experimenting with navigation link. Experimenting with navigation link. if you find this idea interesting you can take and expend it into a more powerful solution.
 [Live coding youtube](https://youtu.be/_wbJqWjqCO0)
 
 ## The result navigaion
