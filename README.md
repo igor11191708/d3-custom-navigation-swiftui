@@ -4,7 +4,7 @@
 Experimenting with navigation link. if you find this idea interesting you can take and expend it into a more powerful solution.
 [Live youtube](https://youtu.be/_wbJqWjqCO0)
 
-## The result navigaion
+## The result navigation
 ```swift
 
     @State var route : Router = .empty
@@ -52,7 +52,7 @@ enum Router {
     }
 }
 ```
-### 3. Define view modifire
+### 3. Define view modifier
 ```swift
 struct NavigationModifire : ViewModifier{
     
